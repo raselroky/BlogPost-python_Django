@@ -5,4 +5,4 @@
 
 3. create,delete,update is set for post
 
-4. show all data or record home page 
+4. see all data or record in home page(from database) 
