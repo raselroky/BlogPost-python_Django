@@ -1,5 +1,5 @@
 
-1. Register and then login ,so match username and password then login successfully
+1. Register and then login ,so match username and password then you entired login successfully
 
 2. Post your content or description 
 
